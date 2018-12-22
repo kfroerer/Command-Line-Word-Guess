@@ -21,6 +21,6 @@ var Word = function (string) {
     }
 }
 
-var testWord = new Word("Kendra");
-console.log(testWord.newLetters);
+// var testWord = new Word("Kendra");
+// console.log(testWord.newLetters);
 module.exports = Word;
